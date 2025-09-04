@@ -1,0 +1,7 @@
+{
+  "name": "Animal Breed Identifier",
+  "description": "An intelligent web application that uses AI to identify the breed of an animal from an uploaded image. Simply upload a picture and let the AI do the rest.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
